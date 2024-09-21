@@ -6,4 +6,6 @@ This extension enhances the KiCad development experience within Visual Studio Co
 
 ```
 sudo apt install kicad kicad-demos kicad-libraries kicad-symbols kicad-templates kicad-footprints kicad-packages3d
+pip install skidl
+export KICAD_SYMBOL_DIR="/usr/share/kicad/library"
 ```
