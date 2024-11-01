@@ -12,3 +12,8 @@ sudo apt install kicad kicad-demos kicad-libraries kicad-symbols kicad-templates
 pip install skidl
 export KICAD_SYMBOL_DIR="/usr/share/kicad/library"
 ```
+
+## My vision for KiCad for VSCode
+
+- You should be able to code schematics and PCBs
+- Ýou should be able to view the schematic/PCB on the right side
